@@ -41,6 +41,7 @@ test*/
 # Exercism-specific files
 /exercism/.metadata
 /exercism/.uuid
+.exercism
 
 # System files
 .DS_Store
