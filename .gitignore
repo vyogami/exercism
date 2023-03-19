@@ -1,0 +1,47 @@
+# Visual Studio Code workspace files
+.vscode/
+tempCodeRunnerFile*
+
+# Maven build directory
+target/
+
+# Gradle build directory
+.gradle/
+build/
+
+# Compiled output
+bin/
+out/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Editor-specific files
+*.swp
+*~
+.DS_Store
+
+# Java-specific files
+*.class
+*.jar
+
+# Java Project specific files
+test*
+test*/
+
+# Exercism-specific files
+/exercism/.metadata
+/exercism/.uuid
+
+# System files
+.DS_Store
+Thumbs.db
